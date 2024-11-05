@@ -4,8 +4,8 @@ public class Prog
 {
     static public void Main()
     {
-	Console.WriteLine("Hello Line 1");
-	Console.WriteLine("Hallo");
+	Console.WriteLine("Hello");
+	Console.WriteLine("Hallo from me");
 	Console.WriteLine("hello from Eugen");
     }
 }
