@@ -6,5 +6,6 @@ public class Prog
     {
 	Console.WriteLine("Hello");
 	Console.WriteLine("Hallo");
+	Console.WriteLine("hello from Eugen");
     }
 }
